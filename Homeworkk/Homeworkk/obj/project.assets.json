@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Repeatt\\Repeat\\Repeat\\Repeat.csproj",
-      "projectName": "Repeat",
-      "projectPath": "C:\\Users\\User\\Desktop\\Repeatt\\Repeat\\Repeat\\Repeat.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Homework\\Homeworkk\\Homeworkk\\Homeworkk.csproj",
+      "projectName": "Homeworkk",
+      "projectPath": "C:\\Users\\User\\Desktop\\Homework\\Homeworkk\\Homeworkk\\Homeworkk.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Repeatt\\Repeat\\Repeat\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Homework\\Homeworkk\\Homeworkk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
